@@ -1,6 +1,2 @@
 pandas
 seaborn
-csv
-random
-operator
-math
